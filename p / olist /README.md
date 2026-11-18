@@ -43,8 +43,8 @@ Python, pandas, numpy, scipy, matplotlib, seaborn, kagglehub. Работа вы�
 
 ## Структура репозитория
 ```
-olist-delivery-analysis/
-└── Olist_Analysis.ipynb
+olist/
+└── Olist_Analysis2.ipynb
 ```
 ## Запуск
 ```bash
